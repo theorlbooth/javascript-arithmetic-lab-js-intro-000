@@ -1,5 +1,4 @@
-function add(){
-  }
-
-function subtract () {
-  }
+add()
+subtract()
+multiply()
+divide()
